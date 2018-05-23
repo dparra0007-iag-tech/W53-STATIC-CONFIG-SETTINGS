@@ -1,2 +1,3 @@
-#!/bin/bash
-export GLOBAL_GREETINGAPI_ENDPOINT="http://greetingapi-apigateway.greetingapi.9ee90c21.svc.dockerapp.io:8080/greetingapi/v2/api-docs?group=greetings"
+export USERAPI_ERRMESSAGE="Sorry, but some error have happened"
+export USERAPI_ADDMESSAGE="User added"
+export USERAPI_DELMESSAGE="user deleted"
