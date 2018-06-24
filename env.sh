@@ -1,3 +1,3 @@
-export GREETINGAPI_DBURL="jdbc:postgresql://greetingapi-db/greetingdb"
-export GREETINGAPI_DBUSER="greetingdbuser"
-export GREETINGAPI_DBPASS="pass"
+export ROUNDAPI_DBURL="jdbc:postgresql://roundapi-db/rounddb"
+export ROUNDAPI_DBUSER="rounddbuser"
+export ROUNDAPI_DBPASS="pass"
