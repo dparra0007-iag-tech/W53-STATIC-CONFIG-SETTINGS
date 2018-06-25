@@ -1,3 +1,3 @@
-export ROUND_DBURL="jdbc:postgresql://round-db/rounddb"
-export ROUND_DBUSER="rounddbuser"
-export ROUND_DBPASS="pass"
+export TEE_DBURL="jdbc:postgresql://tee-db/teedb"
+export TEE_DBUSER="teedbuser"
+export TEE_DBPASS="pass"
