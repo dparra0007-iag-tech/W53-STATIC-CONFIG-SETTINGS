@@ -1,3 +1,3 @@
-export ROUND_DBURL="jdbc:postgresql://round-db/rounddb"
-export ROUND_DBUSER="rounddbuser"
-export ROUND_DBPASS="pass"
+export HOLE_DBURL="jdbc:postgresql://hole-db/holedb"
+export HOLE_DBUSER="holedbuser"
+export HOLE_DBPASS="pass"
