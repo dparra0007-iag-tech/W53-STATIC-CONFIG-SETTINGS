@@ -1,3 +1,3 @@
-export GREETINGAPI_DBURL="jdbc:postgresql://greetingapi-db/greetingdb"
-export GREETINGAPI_DBUSER="greetingdbuser"
+export GREETINGAPI_DBURL="jdbc:postgresql://membership-db/membershipdb"
+export GREETINGAPI_DBUSER="membershipdbuser"
 export GREETINGAPI_DBPASS="pass"
