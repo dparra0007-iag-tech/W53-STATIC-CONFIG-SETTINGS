@@ -6,7 +6,7 @@ function fn() {
   }
   var config = {
     env: env,
-	  myVarName: 'someValue'
+	  url: 'http://greetingapi:9000'
   }
   if (env == 'dev') {
     // customize
