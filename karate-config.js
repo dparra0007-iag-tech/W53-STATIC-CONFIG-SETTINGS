@@ -6,7 +6,7 @@ function fn() {
   }
   var config = {
     env: env,
-	  baseUrl: 'http://greetingapi:9000'
+	  baseUrl: 'http://greetingapi-ocp01-greetingapi-stg.apps.ocp01.hcp.iairgroup.com'
   }
   if (env == 'dev') {
     // customize
