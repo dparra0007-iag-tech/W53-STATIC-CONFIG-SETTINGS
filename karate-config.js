@@ -6,7 +6,7 @@ function fn() {
   }
   var config = {
     env: env,
-	  baseUrl: 'http://greetingapi-apigateway:8080'
+	  baseUrl: 'http://greetingapi-apigateway:8080/greetingapi'
   }
   if (env == 'dev') {
     // customize
